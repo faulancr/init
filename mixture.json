@@ -1,0 +1,20 @@
+{
+    "debug": false,
+    "domain": null,
+    "lintScripts": false,
+    "modelSource": null,
+    "preprocessorLocations": "",
+    "preprocessorScriptOutput": "js",
+    "preprocessorStyleOutput": "scss",
+    "projectDescription": "INIT extends HTML5 Boilerplate, adds more structure for SCSS files, JavaScripts, includes build tasks and a whole lot more. http://use-init.com/",
+    "projectName": "INIT",
+    "publishedId": null,
+    "serverHostname": null,
+    "serverPort": null,
+    "simpleModePartnerServer": null,
+    "templateDefaultLayout": "layout",
+    "templateDefaultPage": "index",
+    "templateDirectory": "templates",
+    "type": "mixture",
+    "useCompass": false
+}
